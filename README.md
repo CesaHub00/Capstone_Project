@@ -3,9 +3,9 @@ The Capstone Project is the end of the certificate course [*Google Advanced Data
 
 In the [project](Capstone_Project.ipynb), the main goal is to analyze the data and to build a model that predicts whether or not an employee will leave the company.
 The notebook is divided in 4 steps:
-  1. package import and dataset load
-  1. data exploration and visualization
-  1. model building in 2 methods
-     - Model approach A: Logistic Regression
-     - Model approach B: Tree-based Machine Learning
-  1. results and evaluation
+  1. Package import and dataset load
+  1. Data exploration and visualization
+  1. Model building in 2 methods
+     - model approach A: Logistic Regression
+     - model approach B: Tree-based Machine Learning
+  1. Results and evaluation
