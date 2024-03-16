@@ -1,4 +1,4 @@
-# **Capstone Project**
+# **Data Analyst Capstone Project**
 End of the certificate course [*Google Advanced Data Analitycs*](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) from Coursera.
 
 In the [project](Capstone_Project.ipynb), the main goal is to analyze the data and to build a model that predicts whether or not an employee will leave the company.
